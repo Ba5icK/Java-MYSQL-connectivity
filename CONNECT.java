@@ -1,9 +1,5 @@
 /*
-
-JPL Assignment-4
-
-
-Write a swing aplication to make an application form which includes the following:
+A swing aplication to make an application form which includes the following:
     1) Labels: Name (Textbox), Roll No (Textbox), CGPI (Textbox), Semester (Combobox), Gender (Radio Button)
     2) Buttons: Submit, Clear, Exit
 Connect it to a database via JDBC
